@@ -1,0 +1,193 @@
+/*.head{
+	background-image: url(div.jpg);
+}
+.div0{
+	height: auto;
+	width: 100%;
+	
+	display: flex;
+	justify-content: ;
+	align-items: ;
+}
+.div0 img{
+	width: 100px;
+	height: 50px;
+	margin-right: 100px;
+
+}
+.div0 input{
+	height: 33px;
+	width: 100%;
+	border-radius: 5px 0px 0px 5px;
+	border-style: none;
+	background-color: ;
+	margin-left: px;
+}
+
+
+.divsearch{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 10px;
+	border:2px solid #c7c9c8;
+	border-radius: 5px;
+	height: 35px;
+	width: 620px;
+
+}
+.divsearch a img{
+	width: 40px;
+	height:35px;
+	margin-right: -1px;
+	border-radius: 0px 5px 5px 0px;
+
+	 
+}
+
+.log{
+	text-decoration: none;
+	margin-left:
+	margin-right:10px; 
+	width: 70px;
+	height: 50px;
+	margin-left: 20px;
+	margin-top: 20px;
+	font-family: arial;
+	font-size: 15px;
+	font-style: italic;
+}
+
+#login{
+	margin-left: 150px;
+}*/
+
+/*.div1{
+	display: flex;
+	background-color: black;
+	justify-content: ;
+	color: white;
+
+}
+
+.div1 p{
+	font-family: arial;
+	
+} */
+
+.body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.div2{
+	width:570px;
+	height: 100%;
+	background-color: white;
+	margin: 10px;
+
+}
+
+
+.div4{
+	width:600px;
+	height: 500px;
+	background-color: white;
+	margin: 10px;
+}
+
+.a1{
+	text-decoration: none;
+	background-color: ;
+	color: white;
+	display: block;
+	margin-left: 60px;
+	padding-left: px;
+	height: 40px;
+	justify-content: center;
+	align-items: center;
+
+}
+
+
+.a1:hover{
+	text-decoration: none;
+	background-color: white;
+	color: black;
+	display: block;
+	margin-left: px;
+	padding-left: px;
+	height: 40px;
+	border:;
+}
+
+
+.p1{
+	font-family: arial;
+	text-align: justify;
+	margin: 20px;
+}
+
+
+
+.body{
+
+display: flex;
+}
+
+
+
+
+.h00{
+
+	font-family: arial;
+	text-align: center;
+}
+
+
+
+.img1{
+
+	width: 100px;
+	height: auto;
+	margin-top: 30px;
+	border-radius: 100%;
+
+
+
+}
+
+.div5{
+	width: 520px;
+	height: 250px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: -50px;
+	margin-bottom: 20px;
+	border: 1px solid #c5d2d4;
+	border-radius: 5px;
+
+
+
+.inf{
+
+	margin-top:80px;
+	font-family: Arial;
+	margin-left: 20px;
+	font-style: italic;
+	font-size: 12px;
+}
+
+
+.link{
+	display: flex;
+}
+
+
+.cont{
+	
+	margin-left: 20px;
+	
+
+	width: 30px;
+	height: 30px;
+}

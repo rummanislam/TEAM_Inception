@@ -1,0 +1,41 @@
+
+#div1{
+	width: 400px;
+	height: 100%;
+	background-color: #ffffff;
+	
+	border-radius: 10px;
+	margin:auto;
+	margin-top: 80px;
+	font-family: arial;
+	
+
+
+}
+#img1{
+	
+	width: 200px;
+	height: 200px;
+	margin-left: 70px;
+	margin-top: -200px;
+	position: fixed;
+	opacity: 20%;
+}
+
+
+#p1{
+	margin-left: 20px;
+	font-family: Arial;
+	font-size: 20px;
+}
+
+#in1{
+	background-color: ;
+	height: 30px;
+	margin-top: 7px;
+	border-radius: 5px;
+	border:1px solid #a5a7ad;
+	width:340px; 
+
+}
+

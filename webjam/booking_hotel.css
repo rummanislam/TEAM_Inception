@@ -1,0 +1,57 @@
+.divb{
+
+	width: 600px;
+	height: 500px;
+	background-image: linear-gradient(45deg,#4eaeed,white);
+	border: 1px solid black;
+	margin-top: 20px;
+	border-radius: 5px;
+	
+}
+
+
+.pform{
+	margin-left: 35px;
+	font-family: arial;
+	font-size: 15px;
+	color: #454747;
+
+}
+
+.inf{
+	width: 500px;
+	height: 30px;
+	margin-top: 2px;
+	margin-bottom: 7px;
+	border-radius: 4px;
+	border: 1px solid grey;
+}
+
+
+.sel{
+	width: 100px;
+	height: 30px;
+	border-radius:5px;
+	border:1px solid grey;
+
+}
+
+
+.button{
+
+
+	margin-left: 450px;
+	width: 70px;
+	height: 30px;
+	background-color: #1a73e8;
+	border: none;
+	border-radius: 3px;
+	font-size: 15px;
+	color:white;
+}
+
+.button:hover{
+	color: #1a73e8;
+	background-color: white;
+	border: 1px solid #1a73e8;
+}

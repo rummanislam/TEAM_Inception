@@ -1,0 +1,157 @@
+
+.div2{
+	position: sticky;
+	width:300px;
+	height: 100%;
+	background-color: white;
+	margin: 10px;
+	top: 0;
+
+}
+.div33{
+	width:100%;
+	height: 100%;
+	background-image:linear-gradient(45deg,#40fcff,white);
+	opacity: ;
+	margin: 10px;
+	
+	
+}
+
+.p1{
+	font-family: arial;
+	text-align: justify;
+	margin: 20px;
+}
+
+.h2{
+	font-family: arial;
+	text-align: justify;
+	margin: 20px;
+
+}
+
+.h4{
+  font-family: arial;
+	text-align: justify;
+	margin: 20px;
+
+}
+
+.img1{
+	justify-content: center;
+	width: 270px;
+	height: 200px;
+	margin-left: 25px;
+}
+
+
+
+
+.a2:link{
+	color:#64eb34;
+	background-color:transparent;
+	text-decoration:none;  
+}
+.a2:visited{
+	color:#02ad07;
+	background-color:transparent;
+	text-decoration:none;  
+}
+.a2:hover{
+	color:red;
+	background-color:transparent;
+	text-decoration:underline; 
+}
+.a2:active{
+	color:#64eb34;
+	background-color:transparent;
+	text-decoration:underline; 
+}
+
+.a3:link{
+	color:black;
+	background-color:transparent;
+	text-decoration:none;  
+}
+.a3:visited{
+	color:black;
+	background-color:transparent;
+	text-decoration:none;  
+}
+.a3:hover{
+	color:#13ed13;
+	background-color:transparent;
+	text-decoration:underline; 
+}
+.a3:active{
+	color:#13ed13;
+	background-color:transparent;
+	text-decoration:underline; 
+}
+.bk{
+	font-size:18px; 
+	font-family: arial;
+	text-align: justify;
+}
+
+
+
+
+#dropdown{
+	position: relative;
+	display: inline-block;
+	margin-left: 20px;
+	margin-top: 6px;
+}
+
+#dropbutton{
+
+	background-color: #4cac50;
+	color:white;
+	font-size: 16px;
+	padding: 10px;
+	border: none;
+}
+
+#dropcontent{
+	display: none;
+	position: absolute;
+	right: ;
+	min-width: 160px;
+	background-color: white;
+	z-index: 1;
+}
+
+
+#dropcontent a{
+	color: black;
+	padding: 10px;
+	text-decoration: none;
+	display: block;
+}
+
+
+#dropcontent a:hover{
+	background-color: #f1f1f1;
+}
+
+#dropdown:hover
+#dropcontent{
+	display: block;
+}
+
+
+#dropdown:hover{
+	background-color: red;
+}
+
+#dropbutton{
+	background-color: #007aff;
+}
+
+
+#dropbutton:hover{
+	background-image: linear-gradient(#007aff,white);
+	color: black;
+}
